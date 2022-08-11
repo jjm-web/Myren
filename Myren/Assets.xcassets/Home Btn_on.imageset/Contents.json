@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Home Btn_on.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

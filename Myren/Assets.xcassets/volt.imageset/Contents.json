@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "volt.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
